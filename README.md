@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbabboni
+- 👋 Hi, I’m Michael, Mikey for short
 - 👀 I’m interested in game development, software engineering, web development, etc.
 - 🌱 I’m currently learning computer science at Rutgers University
 - 😄 Pronouns: he/him
